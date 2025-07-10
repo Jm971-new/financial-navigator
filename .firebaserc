@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "financial-navigator-4s4sc"
+  },
+  "targets": {
+    "financial-navigator-4s4sc": {
+      "hosting": {
+        "studio": ["studio"],
+        "live":   ["live"]
+      }
+    }
   }
 }
+
+
